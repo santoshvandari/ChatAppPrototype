@@ -1,2 +1,4 @@
 venv
 core/__pycache__
+chat/__pycache__
+chat/migrations/__pycache__
