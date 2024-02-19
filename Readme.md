@@ -37,6 +37,15 @@ Follow the Given Steps to Setup in Your Local System.
         # }
     ```
 
+- Migrate the Default Models
+    ```bash
+        # For Windows User
+        python manage.py migrate
+
+        # For Linux User
+        python3 manage.py migrate
+
+    ```
 - Run the Server
     ```bash
         # For Windows User
