@@ -26,8 +26,7 @@ Follow the Given Steps to Setup in Your Local System.
                 "CONFIG": {
                     "hosts": [("127.0.0.1", 6379)],
                 },
-            },
-        }
+            }
 
         # I am Using this Channel just for Testing and Development
         # CHANNEL_LAYERS = {
